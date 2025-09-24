@@ -1,0 +1,6 @@
+pymongo
+certifi
+matplotlib
+bson
+statistics
+python_version >= "3.8"
