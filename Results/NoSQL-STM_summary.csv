@@ -1,0 +1,2 @@
+System,Transactions,Avg_Latency,Median_Latency,Min_Latency,Max_Latency,Total_Retries,Throughput,Gini_Fairness
+NoSQL-STM,2000,53256.6441,55207.20768,211.6384506,97289.8674,12,0.018777,0.299276123
